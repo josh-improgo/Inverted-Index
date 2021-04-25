@@ -1,0 +1,48 @@
+
+Retrieving snippet of "what is the most densely populated city" with stemming on.
+	query1_file17.html	dens
+		the most densely populated cities in the world 
+	query1_file17.html	popul
+		the most densely populated cities in the world tempo 
+	query1_file17.html	citi
+		the most densely populated cities in the world tempo window 
+
+Retrieving snippet of "what is the largest building in the world" with stemming on.
+	query8_file14.html	largest
+		scientists find largest new organ in the body 
+	query8_file14.html	build
+		mapping googletag sizemapping addsize addsize build var bottom banner mapping googletag 
+
+Retrieving snippet of "what is the net worth of the richest person" with stemming on.
+	query3_file15.html	net
+		bezos warren buffett mark zuckerberg net worth bi select arts culture 
+	query3_file15.html	worth
+		warren buffett mark zuckerberg net worth bi select arts culture forbes 
+	query3_file15.html	richest
+		these are the richest people living in each us 
+	query3_file15.html	person
+		data networkid verity taxonomy sports personal finance personal finance personal investing 
+
+Retrieving snippet of "what are the five great lakes called" with stemming on.
+	query4_file12.html	great
+		great lakes facts context https schema 
+	query4_file12.html	lake
+		great lakes facts context https schema org 
+	query4_file12.html	call
+		id here fbq track pageview call or text to schedule a 
+
+Retrieving snippet of "how many countries are there" with stemming on.
+	query8_file14.html	countri
+		faunal species registered in the country last year environment jun dzkou 
+
+What is the most densely populated city?	Recall: 3.6	Precision: 0.012448132780082987
+What is the largest building in the world?	Recall: 5.6	Precision: 0.009900990099009901
+What is the net worth of the richest person?	Recall: 3.6	Precision: 0.012269938650306749
+What are the five great lakes called?	Recall: 4.65	Precision: 0.010676156583629894
+How many countries are there?	Recall: 6.05	Precision: 0.008264462809917356
+Who was the first person on the moon?	Recall: 2.3	Precision: 0.01092896174863388
+What countries won World War 1?	Recall: 4.2	Precision: 0.013100436681222707
+What is the largest organ in our body?	Recall: 11.1	Precision: 0.006993006993006993
+What is the largest desert?	Recall: 3.2	Precision: 0.012345679012345678
+How many bones are there in the human body?	Recall: 5.1	Precision: 0.010416666666666666
+
